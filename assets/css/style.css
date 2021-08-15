@@ -1,0 +1,127 @@
+/* Import Font Family */
+@font-face {
+    font-family: RopaSansItalic;
+    src: url('../Fonts/Ropa_Sans/RopaSans-Italic.ttf');
+}
+
+@font-face {
+    font-family: RopaSansRegular;
+    src: url('./../Fonts/Ropa_Sans/RopaSans-Regular.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: RopaSansRegular;
+
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+/* ======================== Reusable Components ====================*/
+
+#hero-section {
+    margin-top: 45px;
+}
+
+#hero-section .title-box:last-child {
+    margin-left: 25px;
+    margin-top: 45px;
+    float: none;
+    display: inline-block;
+}
+
+#hero-section .title-box {
+    width: 520px;
+    overflow: hidden;
+    padding: 45px 35px;
+    background: #000000;
+    float: left;
+    color: #fff;
+    display: flex;
+}
+
+#hero-section .title-box img {
+    width: 303px;
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+#hero-section .title-box h4 {
+    font-size: 45px;
+}
+
+.btn-direkt {
+    color: #fff;
+    background: #00CE9E;
+    border-radius: 0;
+    margin-right: 20px;
+}
+
+.btn {
+    color: #fff;
+    font-size: 25px;
+}
+
+.btn-download {
+    border: 3px solid #00CE9E;
+    border-radius: 0;
+}
+
+.btn-download:hover {
+    background: #00CE9E;
+    border-radius: 0;
+}
+
+.content-heading {
+    width: 50%;
+    margin-top: 60px;
+}
+
+.content-heading h2 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.content-heading h3{
+    margin: 40px 0;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.content-section{
+    font-size: 18px;
+}
+.content-section p{
+    text-align: justify-all;
+    margin: 35px 0;
+}
+.signeture{
+    width: 30px;
+    margin: 20px 0;
+}
+
+/* ======================= Florian Section ================= */
+.d-heading{
+    font-weight: 700;
+}
+.sub-heading{
+    display: block;
+    font-size: 25px;
+    font-weight: 600;
+}
+.sub-heading::before{
+    content: "";
+    display: inline-block;
+    width: 100%;
+    height: 10px;
+    background: #00CE9E;
+
+}
