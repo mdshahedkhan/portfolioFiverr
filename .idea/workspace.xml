@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afb73b4d-837d-44c2-8b4d-c44c6bfea395" name="Changes" comment="" />
+    <list default="true" id="afb73b4d-837d-44c2-8b4d-c44c6bfea395" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +29,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs/SSIT07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,7 +51,17 @@
       <option name="presentableId" value="Default" />
       <updated>1628943202283</updated>
       <workItem from="1628943203576" duration="4405000" />
-      <workItem from="1629004033488" duration="8321000" />
+      <workItem from="1629004033488" duration="9599000" />
+      <workItem from="1629049916256" duration="2297000" />
+      <workItem from="1629077952956" duration="1401000" />
+      <workItem from="1629091912244" duration="4092000" />
+      <workItem from="1629130884076" duration="4341000" />
+      <workItem from="1629205063096" duration="5025000" />
+      <workItem from="1629264075991" duration="9502000" />
+      <workItem from="1629283819888" duration="802000" />
+      <workItem from="1629511814292" duration="2723000" />
+      <workItem from="1629524712152" duration="237000" />
+      <workItem from="1629541132261" duration="5854000" />
     </task>
     <servers />
   </component>
